@@ -1,5 +1,3 @@
-### ***My Github Profile***
-
 ![Ikhwan Abubakar](img/image-header2.png)
 
 
